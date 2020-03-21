@@ -1,0 +1,46 @@
+Body {
+    font-family:'Boogaloo',cursive;
+    background-color: #6cacf1;
+}
+nav a{
+    font-size: 30px;
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.cr{
+    float: left;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+            
+}
+.k h1{
+    position: absolute;
+    top: 85%;
+    text-align: left;
+    left: 10%;
+    font-size: 80px;
+    
+}
+.d {
+    position: fixed;
+	top: 150%;
+    width: 50%;
+    left: 25%;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+

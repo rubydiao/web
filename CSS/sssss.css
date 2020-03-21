@@ -1,0 +1,58 @@
+body {
+    background-color: aquamarine;
+    font-family:'Boogaloo',cursive;
+}
+
+nav {
+        text-align: right;
+        font-size: 30px;
+}
+h1 {
+    font-size: 100px;
+   
+    text-align: center;
+}
+
+.d {
+    background-color: #f77a11;
+    height:  auto;
+}
+.d img {
+    height: auto;
+    margin: auto auto;
+    display: block;
+}
+.d1 {
+    overflow: hidden;
+    background-color: #28a745;
+    height: auto auto ;
+    
+}
+.d1 p {
+
+    margin: auto auto;
+}
+.d1 img{
+    height: auto;
+    margin: auto auto;
+    display: block;
+   
+    
+}
+
+
+.d2 {
+    background-color: #74b4f9;
+    height: 100%;
+    
+}
+.d2 img{
+    height: auto;
+    margin: auto auto;
+    display: block;
+}
+
+p{
+    text-align: center;
+    font-size: 40px;
+}
